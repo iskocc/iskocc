@@ -1,8 +1,12 @@
 ## Hi there I'm ismail koçak 👋
 - 🌍 I'm from Ankara, Türkiye
+  
 - 🌱 I’m currently learning HTML, CSS, and Javascript
+  
 - 😄 Currently enhancing my skills in React
+  
 - 🤭 I love learning new things and software
+  
 - 📫 How can you reach me kocakismail87@gmail.com 
 
 <!--
