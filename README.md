@@ -6,6 +6,8 @@
 - 😄 Currently enhancing my skills in React
  
 - 😄 I’m interested in developing new things
+
+- 👀 I consider myself as a self learner, adaptable and compromised
   
 - 📫 How can you reach me kocakismail87@gmail.com 
 
