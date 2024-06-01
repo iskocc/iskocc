@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning HTML, CSS, and Javascript
   
 - 😄 Currently enhancing my skills in React
-  
-- 🤭 I love learning new things and software
+ 
+- 😄 I’m interested in developing new things
   
 - 📫 How can you reach me kocakismail87@gmail.com 
 
